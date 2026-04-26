@@ -139,7 +139,7 @@ megaline-mobile-plan-recommendation/
 │   └── 📓 exploration_v1.ipynb                     # Full analysis + modeling
 │
 ├── 🤖 models/
-│   └── ⚙️ best_model.pkl                           # Serialized trained model
+│   └── ⚙️ random_forest_model.joblib               # Serialized trained model
 │
 ├── 🐍 src/
 │   ├── 🐍 __init__.py                              # Package initialization
