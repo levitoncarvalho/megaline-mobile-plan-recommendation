@@ -11,7 +11,7 @@
 
 <br>
 
-**[🚀 Try the Live App](https://megaline-mobile-plan-recommendation-levitoncarvalho.streamlit.app/)** &nbsp;|&nbsp; **[📓 View Full Notebook](https://github.com/levitoncarvalho/megaline-mobile-plan-recommendation/blob/main/notebooks/)**
+**[🚀 Try the Live App](https://megaline-mobile-plan-recommendation-levitoncarvalho.streamlit.app/)** &nbsp;|&nbsp; **[📓 View Full Notebook](https://github.com/levitoncarvalho/megaline-mobile-plan-recommendation/blob/main/notebooks/exploration_v1.ipynb)**
 
 </div>
 
